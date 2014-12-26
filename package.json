@@ -1,0 +1,19 @@
+{
+  "name": "leveldb",
+  "version": "1.0.0",
+  "description": "My solutions for <a href=\"https://github.com/rvagg/levelmeup\">LevelDB</a> workshop.",
+  "main": "less1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seaman248/leveldb-learn-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seaman248/leveldb-learn-/issues"
+  },
+  "homepage": "https://github.com/seaman248/leveldb-learn-"
+}
